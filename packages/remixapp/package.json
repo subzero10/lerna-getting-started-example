@@ -1,6 +1,6 @@
 {
   "name": "@hb-test/remixapp",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",

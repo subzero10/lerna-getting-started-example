@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/subzero10/lerna-getting-started-example/compare/@hb-test/remixapp@1.0.1...@hb-test/remixapp@2.0.0) (2023-05-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **remixapp:** not really a breaking change v2
+
+### Features
+
+* **remixapp:** not really a breaking change v2 ([493d42f](https://github.com/subzero10/lerna-getting-started-example/commit/493d42f67e849db78e40e9e3e44baa609637c079))
+
+
+
 ## [1.0.1](https://github.com/subzero10/lerna-getting-started-example/compare/@hb-test/remixapp@0.2.0...@hb-test/remixapp@1.0.1) (2023-05-26)
 
 **Note:** Version bump only for package @hb-test/remixapp
