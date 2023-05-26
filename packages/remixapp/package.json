@@ -1,8 +1,6 @@
 {
-  "name": "remixapp",
+  "name": "@hb-test/remixapp",
   "version": "0.0.0",
-  "private": true,
-  "sideEffects": false,
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -15,8 +13,8 @@
     "@remix-run/serve": "^1.5.1",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "header": "*",
-    "footer": "*"
+    "@hb-test/header": "*",
+    "@hb-test/footer": "*"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.5.1",
@@ -31,15 +29,5 @@
   },
   "engines": {
     "node": ">=14"
-  },
-  "nx": {
-    "targets": {
-      "build": {
-        "outputs": [
-          "{projectRoot}/build",
-          "{projectRoot}/public/build"
-        ]
-      }
-    }
   }
 }

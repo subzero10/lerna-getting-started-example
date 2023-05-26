@@ -5,6 +5,15 @@
     "packages/*"
   ],
   "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-lerna-changelog": "^2.0.3",
     "lerna": "^6.0.1"
+  },
+  "dependencies": {
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-lerna-changelog"
+    }
   }
 }
