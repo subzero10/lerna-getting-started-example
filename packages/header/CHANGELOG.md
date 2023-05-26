@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/subzero10/lerna-getting-started-example/compare/@hb-test/header@0.1.1...@hb-test/header@0.1.2) (2023-05-26)
+
+
+### Bug Fixes
+
+* **header:** a dummy fix ([d4a7624](https://github.com/subzero10/lerna-getting-started-example/commit/d4a76249077319b3fb30d5e3f32bc80548e424b3))
+
+
+
 ## [0.1.1](https://github.com/subzero10/lerna-getting-started-example/compare/@hb-test/header@0.1.0...@hb-test/header@0.1.1) (2023-05-26)
 
 
