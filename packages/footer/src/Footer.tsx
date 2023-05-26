@@ -3,7 +3,7 @@ import React from 'react';
 export function Footer() {
     return (
         <footer>
-            Footer - dummy bump!
+            Footer - this is a breaking change. BEWARE!
         </footer>
     );
 }
