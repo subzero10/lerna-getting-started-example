@@ -23,6 +23,7 @@ export default function App() {
       </head>
       <body>
         NOT REALLY A BREAKING CHANGE
+        ANOTHER NOT BREAKING CHANGE
         <Outlet />
         <ScrollRestoration />
         <Scripts />
