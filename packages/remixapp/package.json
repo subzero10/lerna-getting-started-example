@@ -1,6 +1,6 @@
 {
   "name": "@hb-test/remixapp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -8,8 +8,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@hb-test/footer": "^0.1.0",
-    "@hb-test/header": "^0.1.0",
+    "@hb-test/footer": "^0.1.1",
+    "@hb-test/header": "^0.1.1",
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
     "@remix-run/serve": "^1.5.1",
