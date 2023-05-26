@@ -22,6 +22,7 @@ export default function App() {
         <Links />
       </head>
       <body>
+        NOT REALLY A BREAKING CHANGE
         <Outlet />
         <ScrollRestoration />
         <Scripts />
