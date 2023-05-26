@@ -8,5 +8,12 @@
     "lerna": "^6.0.1"
   },
   "dependencies": {
+  },
+  "scripts": {
+    "prepare": "npm run build",
+    "build": "lerna run build --stream",
+    "test": "lerna run test --stream",
+    "install": "lerna bootstrap",
+    "release": "lerna publish --conventional-commits --changelog-preset conventional-changelog-conventionalcommits --yes --create-release github --loglevel silly"
   }
 }
